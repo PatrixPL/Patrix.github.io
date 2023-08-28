@@ -61,9 +61,7 @@ h1{
     font-size: 1.1em;
     color: #ffffff;
 }
-h2{
-    color: rgb(0, 162, 255);
-}
+
 
 footer{
     background-color: rgba(0, 0, 0, 0.384);
@@ -72,7 +70,7 @@ footer{
     padding-bottom: 45px;
     text-align: center;
     height: 1.2rem;
-    line-height: 1.5px;
+    line-height: 10px;
     animation: fadeIn;
     animation-duration: 1s;
 }

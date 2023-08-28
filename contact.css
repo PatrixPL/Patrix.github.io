@@ -56,6 +56,16 @@ nav a:hover:before{
 p, .content{
     color: rgb(255, 255, 255);
 }
+.logo_dc{
+    width: 30px;
+    height: 30px;
+    transform: translateY(6px);
+}
+.logo_google{
+    width: 30px;
+    height: 30px;
+    transform: translateY(6px);
+}
 h1{
     text-align: center;
     font-size: 1.1em;
@@ -93,7 +103,7 @@ footer{
     padding-bottom: 45px;
     text-align: center;
     height: 1.2rem;
-    line-height: 1.5px;
+    line-height: 10px;
     animation: fadeIn;
     animation-duration: 1s;
 }

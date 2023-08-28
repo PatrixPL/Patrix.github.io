@@ -75,7 +75,7 @@ footer{
     margin-top: auto;
     text-align: center;
     height: 1.2rem;
-    line-height: 1.5px;
+    line-height: 10px;
     animation: fadeIn;
     animation-duration: 1s;
 }
